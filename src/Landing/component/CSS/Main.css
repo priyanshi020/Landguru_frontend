@@ -1,0 +1,41 @@
+/* src/Main.css */
+.main {
+    padding: 50px;
+    text-align: center;
+}
+
+.main h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.main p {
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+.search-input {
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.try-button {
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.video-section {
+    margin-top: 30px;
+}
+
+.video {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+}

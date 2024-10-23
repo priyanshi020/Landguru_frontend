@@ -1,0 +1,42 @@
+.mySwiper {
+    width: 80%;
+    height: auto;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #00C851; /* Green badge */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .swiper-slide {
+    transform: scale(0.9); /* Default smaller scale */
+    transition: transform 0.3s ease;
+  }
+  
+  .swiper-slide-active {
+    transform: scale(1); /* Active card larger */
+    z-index: 1; /* Bring active card to the front */
+  }
+  
