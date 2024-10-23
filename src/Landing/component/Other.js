@@ -19,7 +19,7 @@ const Other = () => {
 
         <div className="w-25 mt-5">
           <Button
-            text="Explore"
+            text="Explore Details"
             color="#EF9E48"
             size="sm"
             block={true}

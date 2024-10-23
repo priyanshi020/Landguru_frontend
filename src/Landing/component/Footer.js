@@ -33,65 +33,68 @@ const Footer = () => {
 
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
               <p className="mb-3" style={{ fontSize: "18px" }}>
-              Our Information
+                Our Information
               </p>
 
               <ul class="list-unstyled mb-0" style={{ lineHeight: "35px" }}>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Return Policy
+                  Return Policy
                 </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Privacy Policy
-                </li>
-                <li style={{ fontSize: "14px", color: "#02073E" }}>Terms & Conditions</li>
-                <li style={{ fontSize: "14px", color: "#02073E" }}>
-                  Site Map
+                  Privacy Policy
                 </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Store Hours
+                  Terms & Conditions
+                </li>
+                <li style={{ fontSize: "14px", color: "#02073E" }}>Site Map</li>
+                <li style={{ fontSize: "14px", color: "#02073E" }}>
+                  Store Hours
                 </li>
               </ul>
             </div>
 
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
               <p className="mb-3" style={{ fontSize: "18px" }}>
-              My Account
+                My Account
               </p>
 
               <ul class="list-unstyled mb-0" style={{ lineHeight: "35px" }}>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Press inquiries
+                  Press inquiries
                 </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Social media
+                  Social media
                 </li>
-                <li style={{ fontSize: "14px", color: "#02073E" }}>directories</li>
+                <li style={{ fontSize: "14px", color: "#02073E" }}>
+                  directories
+                </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
                   Images & B-roll
                 </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Permissions
+                  Permissions
                 </li>
               </ul>
             </div>
 
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
               <p className="mb-3" style={{ fontSize: "18px" }}>
-              Policy
+                Policy
               </p>
 
               <ul class="list-unstyled mb-0" style={{ lineHeight: "35px" }}>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Application Security
+                  Application Security
                 </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
-                 Software prinicples
+                  Software prinicples
                 </li>
-                <li style={{ fontSize: "14px", color: "#02073E" }}>Unwanted software policy</li>
+                <li style={{ fontSize: "14px", color: "#02073E" }}>
+                  Unwanted software policy
+                </li>
                 <li style={{ fontSize: "14px", color: "#02073E" }}>
                   Resopnsible supply chain
                 </li>
-               
               </ul>
             </div>
           </div>

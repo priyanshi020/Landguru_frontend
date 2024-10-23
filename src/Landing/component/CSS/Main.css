@@ -36,6 +36,14 @@
 
 .video {
     width: 100%;
-    max-width: 600px;
+    max-width: 400px;
+    min-height: 380px;
     border-radius: 10px;
 }
+.combined-background {
+    background-image: url('../../../Images/BG.png'); 
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 87vh; 
+  }
+  
